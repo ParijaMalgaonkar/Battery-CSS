@@ -20,13 +20,6 @@
       50%  {background-color: blue;}
       100% {background-color: green;}
     }
-  </style>
-  </head>
-  <body>
-    <div></div>
-  </body>
-</html>[/sourcecode][tabbyending]
-<pre><strong>Output:</strong></pre><img src="https://media.geeksforgeeks.org/wp-content/uploads/20200506203318/ezgif.com-video-to-gif-15.gif" alt="">
 <p><br><span class="text-big"><strong>Note:</strong> While using @keyframes, there are a certain amount of guidelines that are set in place for you to create a smooth and working animation. Guidelines such as, make sure you make the transitions smooth and specify when the style change will happen in percent or with the keywords "from" and "to", which is the same as 0% and 100%. 0% is the beginning of the animation, 100% is when the animation is complete. For best browser support, you should always define both the 0% and the 100% selectors.</span></p>
 
 <p><span class="text-big">The animation for the charging of a battery is important, as it helps you to understand just how the @keyframes property will help you to time your animation in perfect intervals and hence help make the transitions smooth. The charging of the battery is used to explain how you can set various animations within the given time-period by specifying the percentage of division, exactly how in the example the battery charges from 0-25% then from 25-50% and so on.</span></p>
