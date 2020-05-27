@@ -24,6 +24,8 @@
 
 <p><span class="text-big">The animation for the charging of a battery is important, as it helps you to understand just how the @keyframes property will help you to time your animation in perfect intervals and hence help make the transitions smooth. The charging of the battery is used to explain how you can set various animations within the given time-period by specifying the percentage of division, exactly how in the example the battery charges from 0-25% then from 25-50% and so on.</span></p>
 
+<h2>Final Output: </h2>
+
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200506202219/ezgif.com-video-to-gif19.gif" alt="">
 <p><br>&nbsp;</p>
 
