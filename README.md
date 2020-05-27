@@ -13,17 +13,6 @@
 
 <p><span class="text-big"><strong>Examples: Usage of @keyframes in a background-color change</strong></span></p>
 <pre><strong>Input : </strong></pre>
-[tabby title="HTML"][sourcecode language="html"]<html>
-  <head>
-  <style>
-    div {
-      width: 200px;
-      height: 200px;
-      margin: 200px;
-      border-radius: 100px;
-      background-color: red;
-      animation: circle 8s infinite;
-    }
 
     @keyframes circle {
       0%   {background-color: red;}
